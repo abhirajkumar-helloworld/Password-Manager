@@ -1,8 +1,8 @@
-🔐 Password Manager (CLI)
+# 🔐 Password Manager (CLI)
 
 A simple command-line Password Manager built with Python. This project allows users to securely store, search, update, and delete account credentials while also providing a built-in random password generator.
 
-🚀 Features
+## 🚀 Features
 
 - ➕ Add new account credentials
 - 📋 View all saved accounts
@@ -14,7 +14,7 @@ A simple command-line Password Manager built with Python. This project allows us
 - 📂 Load saved accounts when the program starts
 - 🔒 Hide password input using Python's "getpass" module
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - "random"
@@ -22,14 +22,14 @@ A simple command-line Password Manager built with Python. This project allows us
 - "getpass"
 - File Handling (".txt" files)
 
-📂 Project Structure
+## 📂 Project Structure
 
 Password-Manager/
 │── main.py
 │── passwords.txt
 │── README.md
 
-▶️ How to Run
+## ▶️ How to Run
 
 1. Clone this repository.
 2. Open the project folder.
@@ -37,7 +37,7 @@ Password-Manager/
 
 python main.py
 
-📸 Menu
+## 📸 Menu
 
 1. Add account
 2. View account
@@ -47,7 +47,7 @@ python main.py
 6. Generate random password
 7. Exit
 
-💡 Concepts Practiced
+### 💡 Concepts Practiced
 
 This project helped me practice:
 
@@ -62,7 +62,7 @@ This project helped me practice:
 - Random password generation
 - CLI application design
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Encrypt stored passwords
 - Copy generated password to clipboard
@@ -71,7 +71,7 @@ This project helped me practice:
 - GUI version using Tkinter or CustomTkinter
 - Master password authentication
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Abhiraj Kumar
 
